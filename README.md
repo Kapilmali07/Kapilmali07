@@ -29,8 +29,8 @@ targeting a transition into a full-stack **Data Analyst role**.
 
 | Project | Tools | Highlights |
 |---|---|---|
+| [UPI_FRAUD_RISK_ANALYZER](https://github.com/Kapilmali07/upi-fraud-risk-analyzer) | Python · MySQL · Power BI | 50,000 records · 4 SQL queries · Interactive dashboard |
 | [Customer Shopping Behavior Analysis](https://github.com/Kapilmali07/Customer-Shopping-Behavior-Analysis) | Python · MySQL · Power BI | 3,900 records · 10 SQL queries · Interactive dashboard |
-| [Customer Churn Analysis](https://github.com/Kapilmali07/Customer-Churn-Analysis) | Python · Pandas · Seaborn | 7,043 records · 26.54% churn rate · 9 service attributes |
 
 ---
 
