@@ -6,13 +6,10 @@
 
 ## 🚀 About Me
 
-I'm a data professional with **4.5+ years of experience** at **Kantar GDC**, specializing in
- analytics automation, large-scale survey data processing, and business intelligence.
-I delivered a **66% reduction in processing time** through Python automation and managed
-**1M+ annual records** for global consumer insight projects.
+I'm a data professional with **4.5+ years of experience** at **Kantar GDC**, specializing in analytics automation, large-scale survey data processing, and business intelligence. I delivered a **66% reduction in processing time** through Python automation and managed **1M+ annual records** for global consumer insight projects.
 
 Currently building end-to-end analytics portfolio projects in **Python, MySQL, and Power BI**,
-targeting a transition into a full-stack **Data Analyst role**.
+targeting a transition into a full-stack **Data Analyst/ Senior DA/ Business analyst/ Consultant roles**.
 
 ---
 
@@ -21,7 +18,7 @@ targeting a transition into a full-stack **Data Analyst role**.
 - **Languages & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, MySQL
 - **BI & Visualization:** Power BI (DAX, KPI Dashboards, Slicers), Advanced Excel
 - **Methods:** EDA, Feature Engineering, Customer Segmentation, Statistical Analysis
-- **Tools:** GitHub, Jupyter Notebook, Google Colab, IBM SPSS Dimensions
+- **Tools:** GitHub, Jupyter Notebook, Google Colab, VS Code, IBM SPSS Dimensions
 
 ---
 
