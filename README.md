@@ -1,14 +1,14 @@
 # Hi, I'm Kapil Mali! 👋
 
-🎯 **Senior Data Analyst** | Python · SQL · Power BI | 4.5 Years @ Kantar GDC, Pune
+🎯 **Senior Data Analyst** | · Python · SQL · Power BI · Advanced Excel · Machine Learning | 4.5 Years @ Kantar, Pune
 
 ---
 
 ## 🚀 About Me
 
-I'm a data professional with **4.5+ years of experience** at **Kantar GDC**, specializing in analytics automation, large-scale survey data processing, and business intelligence. I delivered a **66% reduction in processing time** through Python automation and managed **1M+ annual records** for global consumer insight projects.
+I'm a senior data analyst with **4.5+ years of experience** at **Kantar**, specializing in analytics automation, large-scale survey data processing, and business intelligence. I delivered a **66% reduction in processing time** through Python automation and managed **1M+ annual records** for global consumer insight projects.
 
-Currently building end-to-end analytics portfolio projects in **Python, MySQL, and Power BI**,
+Currently building end-to-end analytics portfolio projects in **Python, MySQL, Power BI and Machine learning**,
 targeting a transition into a full-stack **Data Analyst/ Senior DA/ Business analyst/ Consultant roles**.
 
 ---
