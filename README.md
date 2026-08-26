@@ -1,6 +1,6 @@
 # Hi, I'm Kapil Mali! 👋
 
-🎯 **Senior Data Analyst** | · Python · SQL · Power BI · Advanced Excel · Machine Learning | 4.5 Years @ Kantar, Pune
+🎯 **Senior Data Analyst** | · Python · SQL · Power BI · Advanced Excel · Machine Learning | 4.5+ Years @ Kantar, Pune
 
 ---
 
@@ -15,9 +15,12 @@ targeting a transition into a full-stack **Data Analyst/ Senior DA/ Business ana
 
 ## 🛠 Skills
 
-- **Languages & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, MySQL
-- **BI & Visualization:** Power BI (DAX, KPI Dashboards, Slicers), Advanced Excel
-- **Methods:** EDA, Feature Engineering, Customer Segmentation, Statistical Analysis
+- **Languages & Analysis:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, MySQL
+- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+- **BI & Visualization:** Power BI, DAX, KPI Dashboards, Slicers, Data Modeling, ELT/ ETL, Advanced Excel, Tableau
+- **Statistical Analysis:** Hypothesis Testing, T-Test, Z-Test, ANOVA, Chi-Square Test, Correlation, A/B
+Testing, Significance Testing, Weighting
+- **Methods:** EDA, Feature Engineering, Customer Segmentation
 - **Tools:** GitHub, Jupyter Notebook, Google Colab, VS Code, IBM SPSS Dimensions
 
 ---
@@ -26,8 +29,8 @@ targeting a transition into a full-stack **Data Analyst/ Senior DA/ Business ana
 
 | Project | Tools | Highlights |
 |---|---|---|
-| [UPI_FRAUD_RISK_ANALYZER](https://github.com/Kapilmali07/upi-fraud-risk-analyzer) | Python · MySQL · Power BI | 50,000 records · 4 SQL queries · Interactive dashboard |
-| [Customer Shopping Behavior Analysis](https://github.com/Kapilmali07/Customer-Shopping-Behavior-Analysis) | Python · MySQL · Power BI | 3,900 records · 10 SQL queries · Interactive dashboard |
+| [UPI_FRAUD_RISK_ANALYZER](https://github.com/Kapilmali07/upi-fraud-risk-analyzer) | Python · MySQL · Power BI | 50,000 records · SQL queries · Interactive dashboard |
+| [Customer Shopping Behavior Analysis](https://github.com/Kapilmali07/Customer-Shopping-Behavior-Analysis) | Python · MySQL · Power BI | 3,900 records · SQL queries · Interactive dashboard |
 
 ---
 
