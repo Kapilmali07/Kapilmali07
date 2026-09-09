@@ -1,15 +1,15 @@
 # Hi, I'm Kapil Mali! 👋
 
-🎯 **Senior Data Analyst** | · Python · SQL · Power BI · Advanced Excel · Machine Learning | 4.5+ Years @ Kantar, Pune
+🎯 **Senior Data Analyst** | · Python · SQL · Power BI · Advanced Excel · Machine Learning · Deep Learning · Natural Language Processing | 4.9 Years @ Kantar, Pune
 
 ---
 
 ## 🚀 About Me
 
-I'm a senior data analyst with **4.5+ years of experience** at **Kantar**, specializing in analytics automation, large-scale survey data processing, and business intelligence. I delivered a **66% reduction in processing time** through Python automation and managed **1M+ annual records** for global consumer insight projects.
+I'm a senior data analyst with **4.9 years of experience** at **Kantar**, specializing in analytics automation, large-scale survey data processing, and business intelligence. I delivered a **66% reduction in time** through Python automation and managed **1M+ annual records** for global consumer insight projects.
 
-Currently building end-to-end analytics portfolio projects in **Python, MySQL, Power BI and Machine learning**,
-targeting a transition into a full-stack **Senior Data Analyst/ Data Scientist/ ML roles**.
+Currently building end-to-end analytics portfolio projects in **Python, MySQL, Power BI, Machine learning, Deep Learning and Natural Language Processing**,
+targeting a transition into a full-stack **Data Scientist/ AI/ ML roles**.
 
 ---
 
@@ -17,6 +17,7 @@ targeting a transition into a full-stack **Senior Data Analyst/ Data Scientist/ 
 
 - **Languages & Analysis:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, MySQL
 - **Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+- **Deep Learning** Tensorflow, Keras, Pytorch, ANN, RNN, CNN
 - **BI & Visualization:** Power BI, DAX, KPI Dashboards, Slicers, Data Modeling, ELT/ ETL, Advanced Excel, Tableau
 - **Statistical Analysis:** Hypothesis Testing, T-Test, Z-Test, ANOVA, Chi-Square Test, Correlation, A/B
 Testing, Significance Testing, Weighting
